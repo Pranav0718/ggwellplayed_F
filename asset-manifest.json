@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ggwellplayed_F/static/css/main.ee67ce96.css",
+    "main.js": "/ggwellplayed_F/static/js/main.36778f21.js",
+    "static/media/bg.png": "/ggwellplayed_F/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/meal.mp4": "/ggwellplayed_F/static/media/meal.e8c00b6f238378cefe95.mp4",
+    "static/media/welcome.png": "/ggwellplayed_F/static/media/welcome.9da5a8b09992ce8207fd.png",
+    "static/media/gallery01.png": "/ggwellplayed_F/static/media/gallery01.67177b42221ba2ba4265.png",
+    "static/media/gallery04.png": "/ggwellplayed_F/static/media/gallery04.ff6474bee4d554f6146f.png",
+    "static/media/gallery02.png": "/ggwellplayed_F/static/media/gallery02.e2763e40f47a1050ae9e.png",
+    "static/media/gallery03.png": "/ggwellplayed_F/static/media/gallery03.821d8d9c38d97f01d8a6.png",
+    "static/media/gericht.png": "/ggwellplayed_F/static/media/gericht.8fb60d01b2b382bed808.png",
+    "static/media/findus.png": "/ggwellplayed_F/static/media/findus.e15c6dae35e2809999ac.png",
+    "static/media/overlaybg.png": "/ggwellplayed_F/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/G.png": "/ggwellplayed_F/static/media/G.b571eb82e589ec305ec9.png",
+    "index.html": "/ggwellplayed_F/index.html",
+    "main.ee67ce96.css.map": "/ggwellplayed_F/static/css/main.ee67ce96.css.map",
+    "main.36778f21.js.map": "/ggwellplayed_F/static/js/main.36778f21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee67ce96.css",
+    "static/js/main.36778f21.js"
+  ]
+}
