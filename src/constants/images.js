@@ -12,8 +12,8 @@ import findus from "../assets/findus.png";
 import quote from "../assets/quote.png";
 import gericht from "../assets/gericht.png";
 
-export default {
-  bg,
+
+const images = {   bg,
   G,
   gallery01,
   gallery02,
@@ -23,5 +23,6 @@ export default {
   welcome,
   findus,
   quote,
-  gericht,
-};
+  gericht, };
+export default images;
+
